@@ -1,5 +1,6 @@
 # Learn-English
 
+- [notebooklm](https://notebooklm.google.com/)
 - [play.ht](https://play.ht/)
 - [listen-and-write](https://www.listen-and-write.com/)
 - [elevenlabs](https://elevenlabs.io/)
