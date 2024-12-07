@@ -3,6 +3,7 @@
 - [play.ht](https://play.ht/)
 - [listen-and-write](https://www.listen-and-write.com/)
 - [elevenlabs](https://elevenlabs.io/)
+- [Wondershare Filmora](https://getintopc.com/softwares/video-editing/wondershare-filmora-2024-free-download/)
 
 ---
 
