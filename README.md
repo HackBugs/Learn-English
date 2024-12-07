@@ -1,8 +1,81 @@
 # Learn-English
 
-### TTS
 
-1. [naturalreaders](https://www.naturalreaders.com/online/)
+> ## Aapke PDF documents ko upload karke real human-like voice me sunne ke liye niche kuch tools aur websites hain jo AI-based Text-to-Speech (TTS) technology ka use karte hain. Ye tools high-quality, natural-sounding voice provide karte hain aur 2024 me popular hain:
+
+---
+
+### **1. NaturalReader**
+   - **[Website Link](https://www.naturalreaders.com/)**  
+   - Upload PDFs aur documents aur unhe natural voice me sunne ka option deta hai.  
+   - Supports multiple accents aur languages.  
+   - Free version available, but premium version me aur advanced features milte hain.  
+
+---
+
+### **2. Speechify**
+   - **[Website Link](https://speechify.com/)**  
+   - Easy-to-use TTS tool jo PDFs, Word documents, aur articles ko real-sounding voice me convert karta hai.  
+   - Multiple voice options aur speed customization available hai.  
+   - Mobile apps bhi available hain.  
+
+---
+
+### **3. Voice Dream Reader**
+   - **[Website Link](https://www.voicedream.com/)**  
+   - PDF aur ebooks ko natural-sounding voice me read karne ke liye ek powerful app.  
+   - Highly customizable aur dyslexia-friendly.  
+
+---
+
+### **4. Microsoft Edge (Immersive Reader)**
+   - **[Website Link](https://www.microsoft.com/edge/)**  
+   - Microsoft Edge browser ke built-in feature "Read Aloud" se aap PDFs ko upload karke directly sun sakte hain.  
+   - Free aur multiple voice options ke saath simple use-case.  
+
+---
+
+### **5. Balabolka**
+   - **[Website Link](http://www.cross-plus-a.com/balabolka.htm)**  
+   - Free tool jo PDF files ko read kar sakta hai aur natural-sounding voice output deta hai.  
+   - Supports multiple file formats aur TTS engines.  
+
+---
+
+### **6. ReadSpeaker**
+   - **[Website Link](https://www.readspeaker.com/)**  
+   - PDFs aur other documents ko real-like human voice me read karne ke liye ek premium tool.  
+   - Supports multiple accents aur interactive playback features.  
+
+---
+
+### **7. Murf.ai**
+   - **[Website Link](https://murf.ai/)**  
+   - Advanced AI TTS tool jo PDFs aur other text content ko highly natural-sounding voice me convert karta hai.  
+   - Creative projects ke liye bhi helpful hai.  
+
+---
+
+### **8. Google Text-to-Speech (with Third-Party Tools)**  
+   - Google ke TTS API ke integration ke saath aap apne PDFs ko sun sakte hain (third-party tools ka use karke).  
+   - Natural aur clear voice output deta hai.
+
+---
+
+### **9. Play.ht**  
+   - **[Website Link](https://play.ht/)**  
+   - PDFs aur text documents ko real-like voice me read karta hai.  
+   - Professional-sounding voiceovers ke liye bhi use hota hai.  
+
+---
+
+### **10. TTSReader**  
+   - **[Website Link](https://ttsreader.com/)**  
+   - Free aur browser-based TTS tool jo PDFs aur documents ko read kar sakta hai.  
+
+---
+
+> ## Agar aap free aur fast solution chahte hain, to **NaturalReader** aur **Microsoft Edge (Read Aloud)** sabse easy aur accessible hain. Advanced aur high-quality voice ke liye **Speechify** aur **Murf.ai** ka use karein. 😊
 
 ---
 
@@ -41,7 +114,7 @@ Aap is platform me koi bhi English word type karke uska pronunciation aur usage 
 
 ---
 
-Here are some excellent websites where you can listen to English conversations and podcasts to improve your listening and speaking skills:
+> ## Here are some excellent websites where you can listen to English conversations and podcasts to improve your listening and speaking skills:
 
 ---
 
