@@ -1,6 +1,95 @@
 # Learn-English
 
 
+> ## Agar aapko **software** chahiye jisme aap **real-sounding voices** use kar sakein aur apne PDFs ko upload karke sun sakein, toh niche kuch aise software diye gaye hain jo aapke requirement ko fulfill karenge:
+
+---
+
+### **1. Balabolka**
+   - **Download Link**: [Balabolka](http://www.cross-plus-a.com/balabolka.htm)  
+   - **Description**: Balabolka ek free software hai jo aapko different voices ke saath PDF aur text files ko read aloud sunne ki suvidha deta hai. Ye aapko Windows ke built-in voices ke alawa bhi extra voices download karne ka option deta hai.  
+   - **Features**:  
+     - Multiple TTS engines support karta hai  
+     - Adjustable voice speed aur pitch  
+     - Various file formats supported (PDF, DOCX, TXT)
+
+---
+
+### **2. Natural Reader (Software Version)**
+   - **Download Link**: [Natural Reader](https://www.naturalreaders.com/software.html)  
+   - **Description**: Natural Reader ka desktop version bhi available hai jisme aap PDF aur other documents ko real-sounding voices ke saath sun sakte hain. Isme high-quality voices aur multiple languages ka support hota hai.  
+   - **Features**:  
+     - Different voices ka selection  
+     - Speed aur volume control  
+     - Various file formats supported (PDF, DOCX, TXT)
+
+---
+
+### **3. Voice Dream Reader (Desktop Version)**  
+   - **Download Link**: [Voice Dream](https://www.voicedream.com/reader/)  
+   - **Description**: Voice Dream Reader mainly mobile devices ke liye tha, lekin ab iska desktop version bhi available hai. Ye aapko real human-like voices ke saath PDFs, eBooks, aur text ko read karne ka option deta hai.  
+   - **Features**:  
+     - Wide variety of voices  
+     - Highly customizable audio playback  
+     - Good for accessibility purposes
+
+---
+
+### **4. Acapela TTS (Acapela Studio)**
+   - **Download Link**: [Acapela Studio](https://www.acapela-group.com/)  
+   - **Description**: Acapela ka TTS software aapko extremely natural-sounding voices provide karta hai. Isme aap specific voice models choose kar sakte hain aur PDFs ko read aloud kar sakte hain.  
+   - **Features**:  
+     - Large selection of voices  
+     - Realistic voice quality  
+     - Customization options for voice speed, pitch, etc.
+
+---
+
+### **5. Capti Voice**
+   - **Download Link**: [Capti Voice](https://www.captivoice.com/)  
+   - **Description**: Capti Voice aapko PDF aur text files ko read karne ke liye ek real-sounding voice option deta hai. Ye software accessibility aur learning purposes ke liye bahut useful hai.  
+   - **Features**:  
+     - Multiple voices available  
+     - Adjust speed and pitch  
+     - Supports PDFs, web pages, and documents
+
+---
+
+### **6. Read Aloud (Windows 10 Built-In)**
+   - **Description**: Windows 10 me built-in **"Narrator"** aur **"Read Aloud"** feature hai jo aapko PDFs aur text documents ko read aloud karne ka option deta hai. Isme built-in voices available hoti hain, aur aap apni preferences ke according voice select kar sakte hain.  
+   - **Features**:  
+     - Free, built-in Windows feature  
+     - Simple interface  
+     - Limited voices, but still functional
+
+---
+
+### **7. VoiceForge**
+   - **Download Link**: [VoiceForge](https://www.voiceforge.com/)  
+   - **Description**: VoiceForge ek aur TTS software hai jo multiple natural-sounding voices aur languages provide karta hai. Aap isme PDF aur text files ko read aloud kar sakte hain.  
+   - **Features**:  
+     - Multiple voice models  
+     - Customization options available  
+     - Good for personal and professional use
+
+---
+
+### **8. Speech Synthesizer (IVONA TTS)**
+   - **Download Link**: [IVONA](https://www.ivona.com/)  
+   - **Description**: IVONA TTS ek high-quality TTS engine hai jo aapko highly natural-sounding voices provide karta hai. Aap isse PDFs ko read aloud kar sakte hain.  
+   - **Features**:  
+     - Professional, human-like voices  
+     - Multiple languages supported  
+     - High-quality output
+
+---
+
+Agar aapko free version chahiye, toh **Balabolka** aur **NaturalReader** ka use kar sakte hain. Agar aapko best quality aur realistic voices chahiye, toh **Acapela Studio** aur **Voice Dream Reader** ka use kar sakte hain. 
+
+Let me know if you need more information about any of these tools! 😊
+
+---
+
 > ## Aapke PDF documents ko upload karke real human-like voice me sunne ke liye niche kuch tools aur websites hain jo AI-based Text-to-Speech (TTS) technology ka use karte hain. Ye tools high-quality, natural-sounding voice provide karte hain aur 2024 me popular hain:
 
 ---
