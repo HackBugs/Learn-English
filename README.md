@@ -4,6 +4,7 @@
 - [listen-and-write](https://www.listen-and-write.com/)
 - [elevenlabs](https://elevenlabs.io/)
 - [Wondershare Filmora](https://getintopc.com/softwares/video-editing/wondershare-filmora-2024-free-download/)
+- [Link](https://mega.nz/file/KREhRQjL#eXQjb29aci7mqHbOZW43ZWMLgDAgOudqS1kFWt6lY8w)
 
 ---
 
